@@ -3,6 +3,15 @@
 
 ## Project Title: E Commerce Analysis 
 
+[Project Overview](#project-overview)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Data Analysis](#data-analysis)
+
+
 ### Project Overview
 ---
 
@@ -43,3 +52,6 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   SELECT * FROM TABLE1
   WHERE CONDITION = TRUE
   ```
+
+  ### Data Visualization
+  
