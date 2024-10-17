@@ -1,4 +1,4 @@
-# LITA_Class_Documention
+# LITA E Commerce Analysis
 ---
 
 ## Project Title: E Commerce Analysis 
@@ -7,13 +7,16 @@
 
 [Tools Used](#tools-used)
 
-[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
 [Data Analysis](#data-analysis)
+
+[Recommendations](#recommendations)
 
 
 ### Project Overview
 ---
+This Data Analysis project aims to provide insights into the sales performance of the E commerce Project. By analyzing various aspect of the sales data to uncover key insight such as top-selling products, regional performance, and monthly sales trends.
 
 #### Tools Used
 ---
@@ -23,14 +26,19 @@
   2. Analysis
   3. Data Visualization 
 - SQL - Strutured Query Languague for Quering of Data
-- GitHub for portfolio Building
+- Power BI - Power Business Intelligent
+  1. Data visualisation
+  2. Creating reports
+  
 
 
 
-### Data Cleaning and Preparations
+
+
+### Data Cleaning and Preparation
 ---
 
-In the initial phase of the Data Cleaning and preparation , we performed the following action;
+In the initial phase of the Data Cleaning and preparation , we performed the following task;
 1. Data loading and Inspection
 2. Handling missing variable 
 3. Data cleaning and formatting 
@@ -40,9 +48,13 @@ In the initial phase of the Data Cleaning and preparation , we performed the fol
 ---
 EDA involved the exploring of the Data to answer some questions about the Data such as ;
 
-- What is the overall sales trend
-- which product are top sellers
-- What are the products on peak sales?
+- Monthly sales trend
+- Top selling product
+- Sales for each product category
+- Number of sales transaction in each region
+- Total revenue per product
+- Percentage of total sales contributed by Each region
+- Identify product with no sales in the last quarter?
 
   ### Data Analysis
   ---
@@ -53,5 +65,10 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   WHERE CONDITION = TRUE
   ```
 
-  ### Data Visualization
+  ### Recommendations
+  - Based on the anaysis , we recommend the following actions;
+  - Invest in marketing and promotions during peak sales seasons to maximize revenue.
+  - Focus on expanding and promoting products.
+  - implement customer segmentataion strategy to target hight customers effectively.
+
   
